@@ -2,7 +2,7 @@
 
 		tool.RequiresHandle = false
 
-		tool.Name = "Click Teleport"
+		tool.Name = "Click Teleport By Basem x"
 
 		tool.Activated:connect(function()
 
@@ -15,5 +15,3 @@
 		end)
 
 		tool.Parent = game.Players.LocalPlayer.Backpack
-
-	end)
